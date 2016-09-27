@@ -1,0 +1,12 @@
+                 user     system      total        real
+Random       6.580000   0.200000   6.780000 (  6.826906)
+Random Performance: 7997646 / 8000000 (0.99970575)
+                 user     system      total        real
+Counter      5.590000   0.180000   5.770000 (  5.803579)
+Counter Performance: 7999992 / 8000000 (0.999999)
+                 user     system      total        real
+Thread      25.990000  58.820000  84.810000 ( 61.355721)
+Thread Performance: 8000000 / 8000000 (1.0)
+                 user     system      total        real
+Mutex       23.020000  61.840000  84.860000 ( 60.233471)
+Mutex Performance: 8000000 / 8000000 (1.0)
